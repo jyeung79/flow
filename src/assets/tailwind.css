@@ -1,0 +1,13 @@
+@tailwind base;
+
+p {
+    @apply bg-white text-gray-700;
+}
+
+li {
+    @apply bg-white text-gray-700;
+}
+
+@tailwind components;
+
+@tailwind utilities;
